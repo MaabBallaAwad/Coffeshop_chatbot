@@ -2,7 +2,7 @@ import os
 import openai
 import random
 
-openai.api_key ="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"
+openai.api_key ="enter your API key"
 
 def get_completion_from_messages(messages,
                                  model="gpt-3.5-turbo",
